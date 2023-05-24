@@ -22,6 +22,10 @@
 Here is a screencast demo:
 
 
+https://github.com/khaledalam/redis-cli-key-values-hints/assets/8682067/89aba5ae-0784-4a3e-ac80-ed3e36e46499
+
+
+
 </center>
 
 
@@ -29,7 +33,7 @@ It's like chating with server while typing before hint Enter but it works like t
 - User allow that by adding `:set hints-keys-values` in CLI preferences `~/.redisclirc` file  (i just changed the default value of this mechanism to be OFF)
 - GET command is used
 - Original hint value is the word `key`
-- 
+
 ### Example:
 if we have stored pairs values like this:<br/>
 
