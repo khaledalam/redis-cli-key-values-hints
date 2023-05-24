@@ -29,7 +29,7 @@ https://github.com/khaledalam/redis-cli-key-values-hints/assets/8682067/89aba5ae
 </center>
 
 
-It's like chating with server while typing before hint Enter but it works like that only if:
+It's like chating with server while typing before hit Enter but it works like that only if:
 - User allow that by adding `:set hints-keys-values` in CLI preferences `~/.redisclirc` file  (i just changed the default value of this mechanism to be OFF)
 - GET command is used
 - Original hint value is the word `key`
