@@ -7,7 +7,7 @@
  * 1) The hint value to be "key"
  * 2) SCAN command(since: v2.8.0) with pattern[PREFIX*]
  * 
- * The default hints_keys_values is '0' (OFF).
+ * By default hints_keys_values is OFF.
  * The default hints_keys_values_count is 5 keys.
  */
  ```
